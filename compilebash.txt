@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --console --icon "C:/Users/lolgo/PycharmProjects/WordMk/pngegg.ico" --clean --uac-admin --collect-all "pyfiglet"  "C:/Users/lolgo/PycharmProjects/WordMk/main.py"
